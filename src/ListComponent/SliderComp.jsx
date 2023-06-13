@@ -3,7 +3,6 @@ import { useForm } from "../hooks/useForms";
 import Slider from "react-slick";
 import { Button, Grid, TextField } from "@mui/material";
 import Swal from "sweetalert2";
-import '/Users/Fanin/OneDrive/Documentos/react/ShippingHub/src/assets/App.css'
 
 
 export const SliderComp = ({
